@@ -1,0 +1,53 @@
+body 
+{
+  color: black;
+  font-weight: bolder;
+  background-color: burlywood;
+  font-size: 16px ;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+   color: brown;
+   text-align: center;
+}
+
+p{
+  line-height: 1.5;
+
+}
+.c1
+{
+  color: purple;
+  border: red 3px solid;
+  border-left: red 4px solid;
+  padding: 30px;
+  padding-left: 30px;
+  padding: 40px;
+}
+
+.c2
+{
+  color: white;
+  background-color: purple;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  word-spacing: 1em;
+}
+
+.container
+{
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 90px;
+}
+
+.c4
+{
+border: 1px red solid;
+
+}
